@@ -1,0 +1,15 @@
+.container{
+    width:850px;
+    height:500px;
+    background-color:black;
+    border:dashed;
+    border-color:white;
+    text-align: center;
+    margin: auto;
+    overflow:hidden;
+}
+p{
+    font:15px;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
